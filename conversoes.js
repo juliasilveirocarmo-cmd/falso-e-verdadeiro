@@ -3,8 +3,10 @@
 
 // conversão implícita
 const numero = 456;
-const numerostring = "456";
+const numerostring = Number("456");
 
-console.log(numero === numerostring);
+//Number()
+//String()
+console.log(numero + numerostring);
 
 // conversão explicitas
