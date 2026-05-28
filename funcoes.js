@@ -39,3 +39,10 @@ console.log("Exemplo2 -> O resultado guardado na variável é:" + meuResultado);
 
 console.log("");
 console.log(" FIM DOS EXEMPLOS ");
+
+function multiplicar(x, y) {
+        return x * y;
+        }
+
+        console.log(multiplicar(4, 5));
+}
